@@ -25,6 +25,7 @@ Dos conceitos visto nesse projeto, temos:
 * Widget
   * Stateless
   * Statefull
+* Animação
 * Material Design
 * Cuppertino Icons
 * Geração de APK
@@ -34,7 +35,8 @@ Dos conceitos visto nesse projeto, temos:
   * Google Firebase
 * Local Database
 * Gerenciamento de Estados
-  * MobX
-  * Bloc 
+  * MobX (Utilizado no projeto final)
+  * Bloc (Apenas estudo)
+* Controle de Acesso 
 
 
