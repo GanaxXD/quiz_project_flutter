@@ -30,6 +30,11 @@ Dos conceitos visto nesse projeto, temos:
 * Geração de APK
 * Consumo de Libs de terceiros
 * Consumo de APIs
-* Cloud Databas 
+* Cloud Database 
   * Google Firebase
+* Local Database
+* Gerenciamento de Estados
+  * MobX
+  * Bloc 
+
 
